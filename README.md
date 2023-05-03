@@ -1,76 +1,133 @@
-![](https://img.shields.io/badge/Microverse-blueviolet) 
+# My Portfolio
+Welcome to my portfolio project
 
-# Portfolio: setup and mobile version skeleton
-
-For this repository, I've created html templates and styling files in order to built a responsive portfolio ,  which can help to easy explorate  profiles from differents devices.
-
-![home_page](https://github.com/Destin-Lupaya/Portfolio_setupandmobile_first/blob/work_about_myself/statics/images/screenshot_home_page.png)
-
-## Built With 🔨
-
-- HTML
-- CSS
-- Git & Github
-
-## Live Demo
-
-[Live Demo Link](https://github.com/Destin-Lupaya/Portfolio_setupandmobile_first)
-
-### Install
-
-To get a local copy up and running follow these simple example steps.
-- Open terminal
-- Clone this project by the command: 
-
-```
-$ git clone git@github.com:Destin-Lupaya/Portfolio-setup-and-mobile-version-skeleton.git
-```
-
-- Then go to the main folder using the next command:
-
-```
-$ cd Portfolio-setup-and-mobile-version-skeleton.git
-```
-
-- Finally, run diplay the index.html file in your local browser, or also, you can use Live Server in Visual Studio Code.
-
- 
-
-### Prerequisites
-
-- IDE to edit and run the code (We use Visual Studio Code 🔥).
-- Git to versionning your work.
+<a name="readme-top"></a>
 
 
-### Usage
+<!-- TABLE OF CONTENTS -->
 
-- For anyone who wants to practice html5 or/and css3
-- For anyone who wants to create his own portfolio.
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 My Portfolio Project! <a name="about-project"></a>
+
+**my-portfolio!** is my second project at Microverse, in this project I follow microverse activity by following github flow, adding required files.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+- **This repository includes navbar**
+- **This repository includes About section**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](#)
+- [Online Link](#)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 
-## Authors
+- Step 1: Clone this project using this git comand "git clone", (if you don't have git installed please visit
+https://git-scm.com/downloads and install it).
+- Step 2: Once you have installed git you can clone this project using the command below:
+  ```
+  git clone https://github.com/Destin-Lupaya/Portfolio_setupandmobile_first
 
-👤 **Taher Haggui**
+  ```
+- Step 3: Once you have cloned this repo navigate to the folder that contains 
+the repository.
+- Step 4: If you want to watch the html file open it with your favorite web browser.
+- Step 5: If you want to edit this project open it with your favorite text editor.
 
-- GitHub: [@Destin-Lupaya](https://github.com/Destin-Lupaya)
-- LinkedIn: [@DestinKaboteLupaya](https://www.linkedin.com/in/destin-kabote-lupaya-8a861b121/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Kabote Lupaya Destin**
+
+- GitHub: [@githubhandle](https://github.com/Destin-Lupaya)
+- Twitter: [@twitterhandle](https://twitter.com/@KaboteLupaya)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/destin-kabote-lupaya-8a861b121/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🤝 Contributing
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- I will set up the mobile version.
+- I will set up the Desktop version.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
 
-## Show your support
 
-Give a ⭐️ if you like this project!
+If you like this project let me know sharing my portfolio with recruters!
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+<!-- ACKNOWLEDGEMENTS -->
 
-- Hat tip to anyone whose code was used 🔰
-- Inspiration 💘
-- Microverse program ⚡
-- My standup team 🏹
-- My family's support 🙌
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank microverse for this opportunity to train with them
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
